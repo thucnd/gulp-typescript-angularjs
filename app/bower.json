@@ -1,0 +1,21 @@
+{
+  "name": "Web",
+  "description": "Web client",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "ThucNd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.7"
+  }
+}
